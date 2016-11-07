@@ -44,5 +44,6 @@
 #
 class basics {
 
+notify { 'hello, world!': }
 
 }
